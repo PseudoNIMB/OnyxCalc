@@ -3,4 +3,6 @@
     <dimen name="button_size">60dp</dimen>
     <dimen name="button_margin">5dp</dimen>
     <dimen name="button_corners">10dp</dimen>
+    <dimen name="numbers_size">28sp</dimen>
+    <dimen name="operation_result_text_size">48sp</dimen>
 </resources>
